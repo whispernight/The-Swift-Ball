@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/submenu" android:title="Play"
+		android:orderInCategory="1">
+		<menu>
+			<item android:id="@+id/level1" android:title="Level 1" />
+			<item android:id="@+id/level2" android:title="Level 2" />
+		</menu>
+	</item>
+	<item android:id="@+id/Menu1" android:title="Get full version for just 0.99€"
+		android:orderInCategory="2" />
+	<item android:id="@+id/Menu2" android:orderInCategory="2"
+		android:title="Settings" />
+</menu>
