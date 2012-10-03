@@ -1,7 +1,7 @@
 Author: Angel Alferez Aroca
 
 Program: The Swift Ball
-Languaje: Java - Android App
+Language: Java - Android App
 Android version: 4.0
 
 Description:
